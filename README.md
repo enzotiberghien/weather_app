@@ -1,2 +1,2 @@
 # weather_app
-Weather web app to use a public api.
+Weather web app that use a public api.
